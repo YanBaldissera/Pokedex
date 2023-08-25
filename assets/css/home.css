@@ -1,0 +1,23 @@
+.gen1 {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    display: block;
+    writing-mode: 160px;
+    text-align: center;
+    justify-content: center;
+    
+    width: 1rem;
+    height: 1rem;
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+    color: #FFF;
+    border-radius: 35%;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial;
+}
